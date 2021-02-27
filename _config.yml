@@ -2,7 +2,7 @@
 title:               Lanyon
 tagline:             'A Jekyll theme'
 description:         'Ein Blog über das Investieren in einer GmbH'
-url:                 https://ingm4r.github.io
+url:                 https://blog.kapitalturbo.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
