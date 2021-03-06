@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Der Anfang
+comments: true
 ---
 
 <p>Nachdem ich einiges über das Thema recherchiert und den Entschluss gefasst habe eine GmbH zum Trading zu gründen, kam natürlich die nächste Frage auf <em>Mache ich das alles selber?</em></p>

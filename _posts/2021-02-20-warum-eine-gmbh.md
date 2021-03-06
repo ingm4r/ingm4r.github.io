@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Warum eine GmbH gründen?
+comments: true
 ---
 
 In diesem Blog geht es um meine Erfahrungen mit einer GmbH zum Trading, also zum Handeln von Aktien und Wertpapieren.
