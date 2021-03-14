@@ -6,7 +6,7 @@ comments: true
 
 
 Wie bei <a href="https://f.hubspotusercontent00.net/hubfs/8060256/Steuersatze-privat-vs-GmbH.pdf">Ride</a> beschrieben ist ein Vorteil der GmbH, 
-  dass niedrigere Steuern auf Gewinne fällig sind. Aber wie wird das nun berechnet? 
+  dass niedrigere Steuern auf Gewinne fällig sind. Aber wie wird das nun berechnet? Ich bin kein Steuerberater, aber mein Verständnis der Sachlage ist hier dargestellt.
  <p>Bei der Privatperson ist die Sache einfach. Für 10.000 Euro Gewinn aus Dividenden oder Aktienverkäufen werden 801 Euro Freibetrag (sofern noch nicht ausgeschöpft)
  abgezogen und der Rest mit Abgeltungssteuer, Soli und ggf. Kirchensteuer belegt (Beispielrechnung ohne Kirchensteuer):
 
