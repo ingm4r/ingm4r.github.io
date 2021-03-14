@@ -7,13 +7,14 @@ comments: true
 
 Wie bei <a href="https://f.hubspotusercontent00.net/hubfs/8060256/Steuersatze-privat-vs-GmbH.pdf">Ride</a> beschrieben ist ein Vorteil der GmbH, 
   dass niedrigere Steuern auf Gewinne fällig sind. Aber wie wird das nun berechnet? 
- Bei der Privatperson ist die Sache einfach. Für 10.000 Euro Gewinn aus Dividenden oder Aktienverkäufen werden 801 Euro Freibetrag (sofern noch nicht ausgeschöpft)
+ <p>Bei der Privatperson ist die Sache einfach. Für 10.000 Euro Gewinn aus Dividenden oder Aktienverkäufen werden 801 Euro Freibetrag (sofern noch nicht ausgeschöpft)
  abgezogen und der Rest mit Abgeltungssteuer, Soli und ggf. Kirchensteuer belegt (Beispielrechnung ohne Kirchensteuer):
 
 {% highlight js %}
 (10.000-801)*0.73625= 6772,77
 {% endhighlight %}
 
+Für die Privatperson bleiben von 10.000 Euro Gewinn also 6772 Euro.</p>
 Die niedrigeren Steuern in der GmbH, wie z.B. 1.54%, auf Aktien sind effektive Steuern, d.h. auf diesen Steuersatz gelangt man am Ende der Rechnung.
 Hat eine GmbH zum Beispiel folgende Zahlen im Jahr:
 
