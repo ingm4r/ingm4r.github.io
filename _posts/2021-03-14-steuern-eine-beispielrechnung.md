@@ -29,7 +29,7 @@ Damit ergibt sich als Rechnung für den zu versteuerenden Jahresgewinn:
 {% endhighlight %}
 
 Aktiengewinne werden, wegen der Teilfreistellung, nur zu 5% eingerechnet. Für Optionsgeschäfte gilt keine Teilfreistellung, also werden diese voll eingerechnet.
-Auf die verbleibenden 1.300 Euro werden ca. 30% Steuern (Gewerbesteuer, Körperschaftsteuer erhoben, also ergibt sich eine Steuerlast von 390 Euro.
+Auf die verbleibenden 1.300 Euro werden ca. 30% Steuern (Gewerbesteuer, Körperschaftsteuer) erhoben, also ergibt sich eine Steuerlast von 390 Euro.
 Das heißt von den 10.000 Euro Gewinn verbleiben der GmbH, nach Steuern und Betriebskosten, 6.610 Euro:
 
 {% highlight js %}
