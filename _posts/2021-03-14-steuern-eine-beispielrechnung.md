@@ -18,9 +18,9 @@ Für die Privatperson bleiben von 10.000 Euro Gewinn also 6772 Euro.</p>
 Die niedrigeren Steuern in der GmbH, wie z.B. 1.54%, auf Aktien sind effektive Steuern, d.h. auf diesen Steuersatz gelangt man am Ende der Rechnung.
 Hat eine GmbH zum Beispiel folgende Zahlen im Jahr:
 
-• Aktiengewinne: 6.000
-• Optionsgewinne: 4.000 
-• Betriebskosten: 3.000
+* Aktiengewinne: 6.000
+* Optionsgewinne: 4.000 
+* Betriebskosten: 3.000
 
 Damit ergibt sich als Rechnung für den zu versteuerenden Jahresgewinn:
 
