@@ -2,7 +2,8 @@
 title:               Kapitalturbo
 tagline:             'Ein Blog über das Investieren in einer GmbH'
 description:         'Erfahrungen zum Gründen und Handeln von Wertpapieren in einer GmbH'
-baseurl:             'https://blog.kapitalturbo.com'
+url:                 https://blog.kapitalturbo.com
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 
