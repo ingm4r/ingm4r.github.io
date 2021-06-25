@@ -17,7 +17,9 @@ Die Firma bezahlt die Handyrechnung aus den Bruttoeinnahmen und kann die Handyre
 Vor dem Hintergrund teile ich mein Vorgehen in der GmbH in 3 Bereiche auf:
 
 1) Langfristige Anlagen in Aktien (Buy & Hold)
+
 2) Mittelfristige Anlagen in Aktien 
+ 
 3) Regelmäßiges Einkommen durch Verkauf von Optionen
 
 Bei Punkt 3) sollen keine riesigen Summen erwirtschaftet werden, sondern darüber möchte ich primär die Fixkosten der GmbH decken. Sekundär möchte ich Kosten wie Handy, Internet usw. 
