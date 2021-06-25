@@ -32,11 +32,11 @@ Für die Auswahl passender Optionen gibt es verschiedene Ansätze/Methoden, auf 
 
 Wie ist der erste Monat jetzt gelaufen? 
 Da ich mit 3.000 Euro Fixkosten im Jahr bzw. 250 Euro im Monat rechne, war mein Ziel mindestens 300 USD an Prämien einzunehmen.
-Erreicht habe ich 763 Dollar und somit das Ziel deutlich übertroffen.
+Erreicht habe ich 836 Dollar und somit das Ziel deutlich übertroffen.
 
 ![_config.yml]({{ site.baseurl }}/images/20210625-Results.png)
 
-Die Trades dazu sind eigentlich unspektulär, besonders die Trades auf den SPY:
+Die Trades dazu sind eigentlich unspektulär, besonders die Trades auf den SPY (Im Bild fehlen noch die letzten Trades auf $SPCE heute):
 
 ![_config.yml]({{ site.baseurl }}/images/20210625-Trades.png)
 
