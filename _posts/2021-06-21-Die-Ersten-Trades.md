@@ -31,8 +31,8 @@ eine Absicherung dar, weil er mir die unterliegenden Aktien zu dem in der Option
 Für die Auswahl passender Optionen gibt es verschiedene Ansätze/Methoden, auf diese gehe ich hier nicht im Detail ein. Ein sehr ausführliches Beispiel mit dem S&P 500 als Grundlage gibt es <a href="https://earlyretirementnow.com/2019/03/27/passive-income-through-option-writing-part-1/"> hier</a>.
 
 Wie ist der erste Monat jetzt gelaufen? 
-Da ich mit 3.000 Euro Fixkosten im Jahr bzw. 250 Euro im Monat rechne, war mein Ziel mindestens 300 USD an Prämien einzunehmen.
-Erreicht habe ich 836 Dollar und somit das Ziel deutlich übertroffen.
+Da ich mit 3.000 EUR Fixkosten im Jahr bzw. 250 EUR im Monat rechne, war mein Ziel mindestens 300 USD an Prämien einzunehmen.
+Erreicht habe ich 836 USD (700 EUR) und somit das Ziel deutlich übertroffen.
 
 ![_config.yml]({{ site.baseurl }}/images/20210625-Results.png)
 
