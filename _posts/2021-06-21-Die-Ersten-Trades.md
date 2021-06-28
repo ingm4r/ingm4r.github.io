@@ -28,7 +28,7 @@ von Privat in die GmbH verlagern und aus diesen Einnahmen bezahlen. Alles was da
 Meine Strategie bei Punkt 3 ist das Verkaufen von Short Puts. Das bedeutet ich verkaufe Put-Optionen und erhalte dafür eine Prämie. Für den Käufer der Option stellt das 
 eine Absicherung dar, weil er mir die unterliegenden Aktien zu dem in der Option vereinbarten Preis verkaufen kann. Fällt der Kurs unter diesen Preis, kann er mir die Aktien verkaufen, somit hat er
  sich eine Untergrenze für den Verlust geschaffen. Als Verkäufer will man natürlich, dass die Option wertlos verfällt. In dem Fall behält der Verkäufer die gesamte Prämie und kann sich dem nächsten Trade zuwenden.
-Für die Auswahl passender Optionen gibt es verschiedene Ansätze/Methoden, auf diese gehe ich hier nicht im Detail ein. Ein sehr ausführliches Beispiel mit dem S&P 500 als Grundlage gibt es <a href="https://earlyretirementnow.com/2019/03/27/passive-income-through-option-writing-part-1/"> hier</a> oder eine weitere Erklärung <a href="https://wealthyoption.com/"> hier</a>. 
+Für die Auswahl passender Optionen gibt es verschiedene Ansätze/Methoden, auf diese gehe ich hier nicht im Detail ein. Ein sehr ausführliches Beispiel mit dem S&P 500 als Grundlage gibt es <a href="https://earlyretirementnow.com/2016/09/28/passive-income-through-option-writing-part1/"> hier</a> oder eine weitere Erklärung <a href="https://wealthyoption.com/"> hier</a>. 
 
 Wie ist der erste Monat jetzt gelaufen? 
 Da ich mit 3.000 EUR Fixkosten im Jahr bzw. 250 EUR im Monat rechne, war mein Ziel mindestens 300 USD an Prämien einzunehmen.
