@@ -27,11 +27,15 @@ Aber auch gemischte Ansätze funktionieren, zum Beispiel 3.000 EUR Gewinn aus Di
 Durch die Teilfreistellung der Aktiengewinne wären von den 1.500 EUR Aktiengewinnen nur 75 EUR zu versteuern. Die Rechnung wäre also:
 
 {% highlight js %}
+1500*0.05 = 75
+3000+75=3075
 3075-3000 = 75
 75 * 0.3 = 22,5
 {% endhighlight %}
 
 Und in dem gemischten Ansatz verbleibt eine Steuerlast von 22.5 EUR für die GmbH.
+
+
 Für die GmbH sollte man also die Betriebskosten als "umgekehrten Freibetrag" sehen, in dem Sinne, dass man diese Summe mit Dividenden und Optionsgewinne quasi "steuerfrei" erwirtschaften kann. Alles was darüber hinaus geht, sollte dann idealerweise durch Aktiengewinne entstehen. Das bedeutet auch beim Optionshandel empfiehlt es sich immer steueroptimiert zu denken. Ein einfaches Beispiel ist hier ein Long Call der im Plus ist, anstelle diesen gewinnbringend zu verkaufen, ist sinnvoller diesen auszüben und anschließend die zugeteilten Aktien zu verkaufen.
 
 Leider gibt es im deutschen Finanzuniversum relativ wenige Personen die sich ausführlich mit Optionsstrategien beschäftigen. Im <a href="https://www.reddit.com/r/hebelwerk/">Hebelwerk subreddit</a> entsteht gerade eine Community zu diesem Thema. Wer sich dafür interessiert sollte dort, bzw. im <a href="https://discord.gg/hebelwerk">Discord</a> vorbeigucken. 
