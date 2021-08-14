@@ -9,7 +9,7 @@ Generell sollte man sich bewusst sein, dass die GmbH Gewinne mit ca. 30% versteu
 
 
 Im letzten Post habe ich bereits erwähnt, dass die GmbH ihre Fixkosten aus den Bruttogewinnen decken kann, also vereinfacht gesagt: "Betriebseinnahmen - Betriebsausgaben = Gewinn"
-Natürlich können nicht beliebige Kosten als Betriebsausgaben angesetzt werden, dazu gibt es ausführliche <a href="https://www.lexware.de/wissen/buchhaltung-finanzen/betriebsausgaben/>Übersichten</a>. Diesen lässt sich entnehmen, dass beispielweise Kosten für den Steuerberater, IHK und Kreditzinsen abziehbar sind.
+Natürlich können nicht beliebige Kosten als Betriebsausgaben angesetzt werden, dazu gibt es ausführliche <a href="https://www.lexware.de/wissen/buchhaltung-finanzen/betriebsausgaben/">Übersichten</a>. Diesen lässt sich entnehmen, dass beispielweise Kosten für den Steuerberater, IHK und Kreditzinsen abziehbar sind.
 
 Was heißt das jetzt am konkreten Beispiel?
 Für die GmbH setze ich jährliche Betriebskosten von ca. 3.000 EUR an. Nehmen wir an aus den Aktien erhält die GmbH jährlich eine Dividende in Höhe von 4.500 EUR.
