@@ -8,7 +8,8 @@ Weil von vielen Seiten immer wieder das Thema Steuern angesprochen wird, möchte
 Generell sollte man sich bewusst sein, dass die GmbH Gewinne mit ca. 30% versteuern muss. Für Aktien und ETFs ist die Belastung geringer weil hier es hier Teilfreistellungen gibt, wodurch nicht 100% der Gewinne für die Versteuerung zugrunde gelegt werden. Bei Dividenden, Optionsgewinnen oder Gewinnen aus Krypto gibt es sowas nicht. Von daher sollte es natürlich das Ziel der GmbH sein immer möglichst steueroptimal zu handeln und im Idealfall also nur Aktiengewinne zu erzielen, da diese am niedrigsten besteuert werden. Nun habe ich allerdings Aktien (AAPL, MSFT, VIRT und XOM) die Dividende ausschütten (Erklärung zum Aktienportfolio <a href="https://www.reddit.com/r/hebelwerk/comments/nxnnz1/der_yolohamaetf/">hier</a>. 
 
 
-Im letzten Post habe ich bereits erwähnt, dass die GmbH ihre Fixkosten aus den Bruttogewinnen decken kann, also vereinfacht gesagt: "Betriebseinnahmen - Betriebsausgaben = Gewinn"
+Im letzten Post habe ich bereits erwähnt, dass die GmbH ihre Fixkosten aus den Bruttogewinnen decken kann, also vereinfacht gesagt: "Betriebseinnahmen - Betriebsausgaben = Gewinn".
+
 Natürlich können nicht beliebige Kosten als Betriebsausgaben angesetzt werden, dazu gibt es ausführliche <a href="https://www.lexware.de/wissen/buchhaltung-finanzen/betriebsausgaben/">Übersichten</a>. Diesen lässt sich entnehmen, dass beispielweise Kosten für den Steuerberater, IHK und Kreditzinsen abziehbar sind.
 
 Was heißt das jetzt am konkreten Beispiel?
