@@ -11,7 +11,7 @@ Damit hat man einen definiertes Risiko, weil die Verluste der einen Option durch
 
 In der letzten Earnings Seasons habe ich verschiedene Optionen gehandelt, unter anderem auch einen Butterfly auf Zoom. 
 Bei einem Butterfly kauft man 2 Put Optionen und verkauft 2 Put Optionen, dafür erhält man ingesamt eine Gutschrift. Solche Kombinationen kann man sich zum Beispiel 
-auf  <a href="https://optionstrat.com/build/long-put-butterfly/ZM/211015P190,211015P220x-2,211015P250">optionstrat</a> berechnen lassen. 
+auf  <a href="https://optionstrat.com/build/put-broken-wing/ZM/211015P195,211015P240x-2,211015P250">Optionstrat</a> berechnen lassen. 
 
 Die Quartalszahlen von Zoom wurden am 30.08.21 bekannt gegeben, ich habe am 30.08.21 einen Butterfly mit folgenden Komponenten für ca. 100 EUR Credit gemacht:
 
