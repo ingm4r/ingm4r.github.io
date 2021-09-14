@@ -15,9 +15,9 @@ auf  <a href="https://optionstrat.com/build/long-put-butterfly/ZM/211015P190,211
 
 Die Quartalszahlen von Zoom wurden am 30.08.21 bekannt gegeben, ich habe am 30.08.21 einen Butterfly mit folgenden Komponenten für ca. 100 EUR Credit gemacht:
 
-* + 1x 03SEP21 310.0 P
-* - 2x 03SEP21 320.0 P
-* + 1x 03SEP21 325.0 P
+ + 1x Buy 03SEP21 310.0 P
+ - 2x Sell 03SEP21 320.0 P
+ + 1x Buy 03SEP21 325.0 P
 
 Nach Bekanntgabe der Ergebnisse ist Zoom allerdings völlig abgestürzt und zwar von fast 350$ auf 290$, wie man schön in den Tageskerzen sieht:
 
