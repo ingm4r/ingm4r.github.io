@@ -28,7 +28,8 @@ die beiden Long Puts wurde das aber abgefedert. Nachdem ich den Trade geschlosse
 
 ![_config.yml]({{ site.baseurl }}/images/20210914-zm-result.png)
 
-Am Ende habe ich mit den beiden Short Puts also 4.455,36 EUR verloren und mit den Long Puts 4.046,53 EUR gewonnen, also ingesamt nur einen Verlust von 408.83 EUR gemacht.
+Am Ende habe ich mit den beiden Short Puts also 4.455,36 EUR verloren und mit den Long Puts 4.046,53 EUR gewonnen, also ingesamt nur einen Verlust von 408,83 EUR gemacht.
+
 Nun kommt die Verlustbegrenzung ins Spiel: Wenn man davon ausgeht, dass die Privatperson nur noch 20.000 EUR Verlust aus Optionen ansetzen darf, dann ist der Verlusttopf nach 4-5 relativ simplen Trades voll!
 Die GmbH tradet hingegen einfach fröhlich weiter.
 
