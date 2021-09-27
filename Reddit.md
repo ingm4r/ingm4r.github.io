@@ -12,5 +12,4 @@ Wer über Reddit Fragen stellen möchte, kann das hier: <a href="https://www.red
 
 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
