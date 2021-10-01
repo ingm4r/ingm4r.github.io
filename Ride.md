@@ -7,12 +7,12 @@ Meine Erfahrungen mit dem Gründungsservice von Ride waren sehr positiv, wer den
 
 Blogeinträge zu Ride:
 
-<a href="https://blog.kapitalturbo.com/2021/03/01/der-anfang/"></a>
-<a href="https://blog.kapitalturbo.com/2021/03/06/der-naechste-schritt/"></a>
-<a href="https://blog.kapitalturbo.com/2021/03/25/Der-Notartermin/"></a>
-<a href="https://blog.kapitalturbo.com/2021/04/07/admin-service/"></a>
-<a href="https://blog.kapitalturbo.com/2021/04/23/Weiter-Gehts/"></a>
-<a href="https://blog.kapitalturbo.com/2021/05/03/Handelsregister/"></a>
-<a href="https://blog.kapitalturbo.com/2021/05/22/Depoter%C3%B6ffnung/"></a>
-<a href="https://blog.kapitalturbo.com/2021/05/28/Fazit/"></a>
+<a href="https://blog.kapitalturbo.com/2021/03/01/der-anfang/">Der Anfang</a>
+<a href="https://blog.kapitalturbo.com/2021/03/06/der-naechste-schritt/">Der nächste Schritt</a>
+<a href="https://blog.kapitalturbo.com/2021/03/25/Der-Notartermin/">Der Notartermin</a>
+<a href="https://blog.kapitalturbo.com/2021/04/07/admin-service/">Der Admin-Service</a>
+<a href="https://blog.kapitalturbo.com/2021/04/23/Weiter-Gehts/">Weiter geht's</a>
+<a href="https://blog.kapitalturbo.com/2021/05/03/Handelsregister/">Der Handelsregistereintrag</a>
+<a href="https://blog.kapitalturbo.com/2021/05/22/Depoter%C3%B6ffnung/">Depoteröffnung</a>
+<a href="https://blog.kapitalturbo.com/2021/05/28/Fazit/">Fazit</a>
 
