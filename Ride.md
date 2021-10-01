@@ -7,12 +7,12 @@ Meine Erfahrungen mit dem Gründungsservice von Ride waren sehr positiv, wer den
 
 Blogeinträge zu Ride:
 
-https://blog.kapitalturbo.com/2021/03/01/der-anfang/
-https://blog.kapitalturbo.com/2021/03/06/der-naechste-schritt/
-https://blog.kapitalturbo.com/2021/03/25/Der-Notartermin/
-https://blog.kapitalturbo.com/2021/04/07/admin-service/
-https://blog.kapitalturbo.com/2021/04/23/Weiter-Gehts/
-https://blog.kapitalturbo.com/2021/05/03/Handelsregister/
-https://blog.kapitalturbo.com/2021/05/22/Depoter%C3%B6ffnung/
-https://blog.kapitalturbo.com/2021/05/28/Fazit/
+<a href="https://blog.kapitalturbo.com/2021/03/01/der-anfang/"></a>
+<a href="https://blog.kapitalturbo.com/2021/03/06/der-naechste-schritt/"></a>
+<a href="https://blog.kapitalturbo.com/2021/03/25/Der-Notartermin/"></a>
+<a href="https://blog.kapitalturbo.com/2021/04/07/admin-service/"></a>
+<a href="https://blog.kapitalturbo.com/2021/04/23/Weiter-Gehts/"></a>
+<a href="https://blog.kapitalturbo.com/2021/05/03/Handelsregister/"></a>
+<a href="https://blog.kapitalturbo.com/2021/05/22/Depoter%C3%B6ffnung/"></a>
+<a href="https://blog.kapitalturbo.com/2021/05/28/Fazit/"></a>
 
