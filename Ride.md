@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ride
+title: Ride Gründungsservice
 ---
 
 Meine Erfahrungen mit dem Gründungsservice von Ride waren sehr positiv, wer den Service auch nutzen will bekommt mit dem Code INGMAR56990 50 Euro Rabatt. 
