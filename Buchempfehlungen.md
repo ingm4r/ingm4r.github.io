@@ -4,7 +4,7 @@ title: Buchempfehlungen
 ---
 
 Hier findet sich eine Sammlung von Büchern, dir mir bei verschiedenen Themen weiter geholfen haben.
-ZUm Beispiel empfehlen sich die Bücher zum Future-Trading wenn man sich alle Grundlagen aneignen will.
+Zum Beispiel empfehlen sich die Bücher zum Future-Trading wenn man sich alle Grundlagen aneignen will.
 
 
 # GmbH Gründung
