@@ -24,3 +24,9 @@ Zum Beispiel empfehlen sich die Bücher zum Future-Trading wenn man sich alle Gr
 
 # Optionshandel
 * <a target="_blank" href="https://www.amazon.de/gp/product/1119583519/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1119583519&linkCode=as2&tag=kapitalturbo-21&linkId=161a1233411e398d7c11d963bf3011e1">Positional Option Trading: An Advanced Guide (Wiley Trading Series)</a>
+
+
+# Audible Hörbücher
+
+* <a target="_blank" href="https://www.amazon.de/Flash-Boys-Revolte-Wall-Street/dp/B00Q4OYSS6?tag=kapitalturbo-21">Flash Boys</a>
+
