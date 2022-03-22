@@ -11,14 +11,14 @@ Dies funktioniert für „nicht-GmbH Trader“ jedoch Semi-Optimal, da man als P
 Sobald diese 20.000 € voll sind, dürfen die Gewinne nicht mehr mit den Verlusten verrechnen und die Gewinne müssen voll versteuert werden, selbst wenn in der Summe der Trade negativ bzw. mit Verlusten ist.
  
 Die Strategie ist eine VIX-Strategie, es wird also mit dem Volatilitätsindex gehandelt, genauer auf die VIX-Futures. Die Idee oder Theorie an der ganzen Sache ist, dass in unruhigen Situationen die nahe Zukunft unvorhersehbarer ist als die ferne Zukunft. Normalerweise sind die Future-Kontrakte des VIX in Contango, das heißt also die hinteren Monate, die zeitlich weiter weg sind, sind teurer als diejenigen Monate, die näher am aktuellen Datum sind. 
-Die Terminstrukturkurve kann zum Beispiel auf www.vixcentral.com eingesehen werden.
+Die Terminstrukturkurve kann zum Beispiel auf <a href="https://vixcentral.com">vixcentral</a> eingesehen werden.
 Im Bild ist für den 01.02.2022 zu sehen, dass die Terminstrukturkurve in Contango ist:
-<screenshot>
+![_config.yml]({{ site.baseurl }}/images/20220322-Contango.png)
 
 In dieser „normalen“ Marktumgebung ist der Spread, also die Differenz zwischen den Werten des ersten und zweiten Monats ungefähr bei 1.
 Nun zur Idee dieser Strategie: Sobald etwas unvorhergesehenes passiert, wie zum Beispiel der aktuelle Krieg, dann verändert sich diese normale Marktumgebung und dementsprechend passiert auch etwas mit dem Volatilitätsindex. Seine Futures, welche normalerweise in Contango sind, ändern dies plötzlich. Sie sind jetzt in der sogenannten „Backwardation“. Backwardation bedeutet, dass die „nahen“ Monate teurer werden als die „fernen“ Monate.
 Im Bild ist die Backwardation am 23.02.2022 zu sehen:
-<screenshot>
+![_config.yml]({{ site.baseurl }}/images/20220322-Backwardation.png)
 
 Der Spread zwischen dem ersten und dem zweiten Monat beträgt jetzt ca. -1, statt wie vorher 1.
 In dieser Situation wird indessen folgendes getan: Es wird ein Spread zwischen den beiden Monaten eröffnet als Credit-Trade eröffnet. 
@@ -31,20 +31,29 @@ Bei einem bloßen „naked short“ eines VIX-Assets wie zu Beispiel dem VXX ist
 Der Spread hat dadurch „nur“ einen Verlust von 5.000,00$. Der Future auf den zweiten Monat ist also der Hedge, die Versicherung davor, falls der VIX weiter steigt.
 Wichtig ist nur, dass vor dem Ablauftdatum des ersten Futures der Spread kleiner ist als bei der Eröffnung des Trades, ansonsten muss gerollt werden.
  
-Zudem ist der Trade ziemlich flexibel. Eine Möglichkeit, wie man den Trade umwandeln oder modifizieren kann, ist, Gewinne mitzunehmen. Angenommen, der hintere Future steigt um 10, dann hat die Position einen Gewinn von 10000 $. Das Problem dabei ist, dass man dann naked short auf den VIX ist. Wenn dieser weiter fällt, ist es natürlich gar kein Problem, schließlich machen wir dann doppelt Gewinn. Allerdings tragen wir dabei selbstverständlich das Risiko, dass der VIX steigt und man keinen Hedge mehr dagegen habt.
+Zudem ist der Trade ziemlich flexibel. Eine Möglichkeit, wie der Trade umgewandelt oder modifiziert werden kann, ist, Gewinne mitzunehmen.
+Angenommen, der hintere Future steigt um 10, dann hat die Position einen Gewinn von 10.000,00$. Das Problem dabei ist, dass man dann naked short auf den ersten VIX-Future ist. 
+Wenn dieser weiter fällt, ist es natürlich gar kein Problem, schließlich machen wir dann doppelt Gewinn. Allerdings existiert dabei selbstverständlich das Risiko, dass der VIX steigt und man keinen Hedge mehr dagegen hat.
 
 Ein kleines, abstraktes Beispiel:
+Der Front Month hat einen Wert von 30, der Back-Month einen von 28. Man macht einen Spread auf (short Front Month und long Back Month), und erhält dadurch Credit von 2.000,00$.
+Nun steigt der Front Month auf 38 und der Back Month auf 34. Es gibt jetzt drei Möglichkeiten, wie weiter verfahren werden kann:
 
-Der Front-Monat hat einen Wert von 30, der Back-Month einen von 28. Wir machen eine BTO Order: short-Front Month und long-Back Month, haben dadurch Credit von 2000 $ einkassiert.
+a) Back Month mit 6.000,00$ Gewinn schließen. Jetzt wird gewartet, bis der Front Month auf 29 fällt und dieser geschlossen wird, dann erhält man aus der Position nochmal 1.000,00$. 
+Insgesamt hat keine der Positionen einen Verlust zu verzeichnen und der gesamte Trade wird mit +7.000,00$ geschlossen. Hier besteht aber ein Risiko, nämlich, dass der Front Month nicht auf 29 zurückfällt und diese Position möglicherweise mit Verlust geschlossen wird. 
+Der vorhergegangene Hedge wurde bereits geschlossen, der kann nicht mehr helfen. Allerdings ändert sich auch durch den bereits realisierten Gewinn die Break-even-Schwelle für den Front Month, dies sollte immer beachtet werden.
 
-Nun steigt der Front auf 38 und der Back auf 34. Es gibt jetzt zwei Möglichkeiten, wie wir weiter verfahren können:
+b) Es wird alles so gelassen wie es ist und man hält sich an die ursprüngliche Trade-Idee. Wenn der Front Month dann später wieder bei 29 steht und der Back Month bei 30, hat der Spread die Ziel-Differenz von 1 erreicht. 
+Nun wird die Front- und die Back-Position gleichzeitig geschlossen, der Profit liegt dann bei 1.000,00$.
 
-a) Wenn nun letzteres verkauft wird, (also long-Back), dann wird die Position mit 6000 $ Gewinn geschlossen. Jetzt wird gewartet, bis der Front auf 29 fällt und dieser geschlossen wird, dann erhält man aus der Position nochmal 1000 $. Insgesamt hat keine der Positionen einen Verlust zu verzeichnen und der gesamte Trade wird mit + 7000 $ geschlossen. Hier besteht aber ein Risiko, nämlich dass der Front nicht auf 29 zurückfällt und diese Position möglicherweise mit Verlust geschlossen wird. Der vorhergegangene Hedge wurde bereits geschlossen, der kann nicht mehr helfen. Allerdings ändert sich auch durch den bereits realisierten Gewinn die Break-even-Schwelle, dies sollte immer beachtet werden.
-
-b) Es wird alles so gelassen wie es ist und man hält sich an die ursprüngliche Trade-Idee. Wenn der Front dann später wieder bei 30 steht und der Back bei 29, hat der Spread unsere Ziel-Differenz von 1 erreicht. Nun wird die Front und die Back Position gleichzeitig geschlossen. Der Profit liegt dann bei 1000 $.
+c) Im Prinzip wie b) nur, dass nicht gewartet wird, bis der Spread wieder +1 erreicht, sondern einen anderen Wert davor.
 
 Jetzt ein Beispiel für einen Trade, der tatsächlich unter realen Marktbedingungen durchgeführt wurde:
 
-(Trag hier bitte nochmal die VIX Werte nach, damit es anschaulicher wird!!!)
+Am 09.03.2022 wurde ein Spread zwischen den April und Mai VIX-Futures aufgemacht, dabei stand der April Future bei 31,25 und der Mai bei 30,25. 
+Daraus erhielt ich 1.000,00$ an Credit. 9 Tage später, am 18.03.2022, wurde die Position wieder geschlossen bei einem Stand von 27,37 für den April-Future und 27,67 für den Mai-Future. 
+Dafür wurden erneut Credit gutgeschrieben und zwar 300,00$. 
+Abzüglich der Gebühren blieben 1.290,00$ als Gewinn. Die Mai-Position wurde mit ca. 3.100,00 $ Verlust geschlossen, während die April-Position ein Plus von 4400 $ zu verzeichnen hatte. 
+Deshalb ist die ganz am Anfang angesprochene Verlustverrechnung wichtig. Je nach Future (VIX oder VXM) füllt sich der Verlusttopf schneller oder langsamer.
 
-Am 09.03.2022 wurde ein Spread zwischen April und Mai aufgemacht. Daraus erhielt man 1000 $ an Credit. 9 Tage später, am 18.03.2022, wurde die Position wieder geschlossen und dafür erneut Credit gutgeschrieben, diesmal aber nur 300 $. Abzüglich der Gebühren blieben 1290 $ als Gewinn. Die Mai-Position wurde mit 3100 $ Verlust geschlossen, während die April-Position ein Plus von 4400 $ zu verzeichnen hatte. Deshalb wurde in diesem Artikel auch ganz am Anfang die Verlustverrechnung angesprochen. Je nach Positionsgröße füllt sich der Verlusttopf schneller oder langsamer und ohne die Möglichkeit der Verrechnung wäre der Trade nach Steuern nur + 190 $ statt + 967 $ gewesen.
+
