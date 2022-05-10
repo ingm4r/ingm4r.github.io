@@ -20,6 +20,8 @@ Im Vergleich dazu haben S&P500 0,45% und der All World 7,02% im Vergleichszeitra
 Die Rendite ist also ordentlich, hier gibt es nichts zu beklagen.
 
 Dabei sind die realisierten Gewinne und Verluste (unrealisierte Posten nicht betrachet):
+
+
 | Instrument | Ergebnis | 
 | ---- | ---- |
 | Aktien | +12.143,42 EUR |
@@ -34,6 +36,8 @@ Also insgesamt ein realisierter Gewinn von ca 20.250,00 EUR
 
 
 Dem gegenüber stehen die Kosten der GmbH:
+
+
 | Bereich | Kosten |
 | ---- | ---- |
 | Gründung | 2.707,31 EUR |
@@ -48,6 +52,8 @@ Ein Posten für das Transparenzregister fehlt ebenfalls noch, obwohl die vvGmbH 
 Und ohne den Jahresabschluss fehlen noch die Zinskosten für das Gesellschafterdarlehen.
 
 Außerdem sind noch weitere Kosten, wie z.B. ein neuer Laptop, in die vvGmbH gelaufen:
+
+
 | Bereich | Kosten |
 | ---- | ---- | 
 | Handyvertrag | 550,00 EUR |
