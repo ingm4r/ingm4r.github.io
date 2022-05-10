@@ -21,8 +21,7 @@ Die Rendite ist also ordentlich, hier gibt es nichts zu beklagen.
 
 Dabei sind die realisierten Gewinne und Verluste (unrealisierte Posten nicht betrachet):
 
-
-
+<br>
 
 | Instrument | Ergebnis | 
 | ---- | ---- |
@@ -39,8 +38,7 @@ Also insgesamt ein realisierter Gewinn von ca 20.250,00 EUR
 
 Dem gegenüber stehen die Kosten der GmbH:
 
-
-
+<br>
 
 | Bereich | Kosten |
 | ---- | ---- |
@@ -57,8 +55,7 @@ Und ohne den Jahresabschluss fehlen noch die Zinskosten für das Gesellschafterd
 
 Außerdem sind noch weitere Kosten, wie z.B. ein neuer Laptop, in die vvGmbH gelaufen:
 
-
-
+<br>
 
 | Bereich | Kosten |
 | ---- | ---- | 
