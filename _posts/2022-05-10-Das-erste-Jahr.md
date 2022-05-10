@@ -16,7 +16,7 @@ Die erste interessante Frage: Wie viel Rendite hat die vvGmbH denn gemacht?
 ![_config.yml]({{ site.baseurl }}/images/20220510-Rendite.png)
 
 Aktuell steht das Depot YOY bei 35,18%, vor der aktuellen Marktkorrektur waren es sogar knapp über 50%.
-Im Vergleich dazu haben S&P500 0,45% und der All World 7,02% im Vergleichszeitraum erzielt.
+Im Vergleich dazu haben S&P500 0,45% und der All World 7,02% erzielt.
 Die Rendite ist also ordentlich, hier gibt es nichts zu beklagen.
 
 Dabei sind die realisierten Gewinne und Verluste (unrealisierte Posten nicht betrachet):
