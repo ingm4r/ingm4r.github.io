@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neues Konto
+title: Das erste Jahr
 comments: true
 ---
 
