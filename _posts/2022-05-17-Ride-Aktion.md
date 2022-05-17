@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ride Weihnachtsaktion
+title: Ride Renditekicker
 comments: true
 ---
 
 Bei <a target="_blank" href="https://ride.capital/">Ride</a> ist es aktuell wieder Zeit für eine nette Aktion.
-Gefeiert werden 1.000 gegründete GmbHs, Glückwunsch an dieser Stelle dazu!
+Gefeiert werden 1.000 betreute GmbHs, Glückwunsch an dieser Stelle dazu!
 
 
 Das Ergebnis wird mit höheren Rabatten bei der Nutzung von Ref-Codes beziehungsweise Rabattcodes gefeiert.
