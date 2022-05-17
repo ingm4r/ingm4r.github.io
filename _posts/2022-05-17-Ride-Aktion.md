@@ -6,7 +6,9 @@ comments: true
 
 Bei <a target="_blank" href="https://ride.capital/">Ride</a> ist es aktuell wieder Zeit für eine nette Aktion.
 Gefeiert werden 1.000 gegründete GmbHs, Glückwunsch an dieser Stelle dazu!
-Das Ergebnis wird gefeiert, in dem die Rabatte bei der Nutzung von Ref-Codes beziehungsweise Rabattcodes erhöht werden.
+
+
+Das Ergebnis wird mit höheren Rabatten bei der Nutzung von Ref-Codes beziehungsweise Rabattcodes gefeiert.
 Im Aktionszeitraum (17.05.2022 bis 31.05.2022) gibt es dann folgende Gutschriften:
 
 * GmbH-Gründung-Service + Admin-Service: 500 € pro Person
