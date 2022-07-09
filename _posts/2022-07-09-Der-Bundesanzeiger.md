@@ -11,7 +11,7 @@ Schaut man im Unternehmensregister findet man für größere Firmen die hinterle
 Für die vvGmbH zeigt einem das Unternehmensregister hingegen nur an, dass Bilanzen hinterlegt sind. Möchten diese eingesehen werden, muss erst ein Benutzerkonto angelegt werden und dann können diese Dokumente für eine geringe Gebühr (etwa 1 EUR) eingesehen werden.
 Die Bilanz sieht dann wie folgt aus:
 
-![_config.yml]({{ site.baseurl }}/images/20220709-Unternehmensregister.png
+![_config.yml]({{ site.baseurl }}/images/20220709-Unternehmensregister.png)
 
 
 Das Fazit also: Wenn die vvGmbH als Kleinkapitalgesellschaft läuft, dann kann die Bilanz eingesehen werden. Jedoch ist diese nicht öffentlich und kostenlos.
