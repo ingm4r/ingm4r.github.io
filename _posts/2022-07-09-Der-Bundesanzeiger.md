@@ -1,3 +1,4 @@
+---
 layout: post
 title: Der Eintrag im Bundesanzeiger
 comments: true
