@@ -11,7 +11,7 @@ Durch die aktuelle hohe Volatilität sind neue Hedges nun relativ teuer, deswege
 Im Lauf der letzen Woche ist die VIX-Terminkurve wieder in Backwardation gedreht, die Gelegenheit habe ich genutzt, um wieder Trades mit VIX Spreads zu eröffnen. Die erste Runde davon konnte ich diese Woche mit Gewinn schließen.
 
 Heute kam dann auch noch eine Pressemitteilung der <a target="_blank" href="https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Pressemitteilung/2022/pm_2022_09_30_AllgV_Futures_Beschraenkung.html">Bafin</a>
-Das bereits angedrohte Verbot für den Handel mit Futures für Privatanleger kommt zum 01.01.2023. Mit einer GmbH ist man nicht automatisch davon befreit. Nach meinem Verständnis des <a target="_blank" href="https://www.gesetze-im-internet.de/wphg/__67.html">WpHG</a> ist eine Einstufung
-als Professional nur über die Kriterien in Ziffer 6 möglich, welche sich mit den Anforderunen aus MiFID II decken. Somit muss die GmbH auch diesen Professional-Status haben, um weiter mit Futures handeln zu können.
+Das bereits angedrohte Verbot für den Handel mit Futures für Privatanleger kommt zum 01.01.2023. Nach meinem Verständnis ist eine GmbH nicht automatisch davon befreit. Im <a target="_blank" href="https://www.gesetze-im-internet.de/wphg/__67.html">WpHG</a> ist eine Einstufung
+als professioneller Anleger über die Kriterien in Ziffer 6 möglich, welche sich mit den Anforderunen aus MiFID II decken. Somit muss die GmbH auch diesen Professional-Status haben, um weiter mit Futures handeln zu können.
 
 
